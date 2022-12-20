@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "309569680515",
+    "project_id": "abiyasa-a4141",
+    "storage_bucket": "abiyasa-a4141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309569680515:android:e66a67cd7238f0b89317b6",
+        "android_client_info": {
+          "package_name": "com.gira.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309569680515-70f7elertav52mi4pcq9l5t5q2pulddk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gira.myapplication",
+            "certificate_hash": "5be24323c711d99f02012a5543f76efe3910e3d0"
+          }
+        },
+        {
+          "client_id": "309569680515-1at0skvihn1c5rqusls8amgpg1nasf08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWniBBao7yuAYQMWe2Z96qo1j8iVTcK6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309569680515-1at0skvihn1c5rqusls8amgpg1nasf08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">Abiyasa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="abiyasa">Abiyasa</string>
+    <string name="description_auth">Learn something new!</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign in</string>
+    <string name="join_now">Join and Register Now!</string>
+
+<!--    Content description-->
+    <string name="image_login_page" translatable="false">Image login page</string>
+
+    <string name="email" translatable="false">Email</string>
+    <string name="email_example" translatable="false">user@gmail.com</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="enter_email">Email can not be empty!</string>
+    <string name="enter_password">Password can not be empty!</string>
+    <string name="wrong_email_or_password">Wrong email or password, please check it again!</string>
+    <string name="dosnt_have_an_account_yet">Doesn\'t have an account yet?</string>
+
+<!--    Register-->
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="already_sign_in">You are already sign in!</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/Kotlin/abiyasa/app/src/main/res/drawable/custom_button_box.xml" value="0.1035" />
+        <entry key="..\:/Project/Kotlin/abiyasa/app/src/main/res/drawable/ic_reading_removebg_preview_1.xml" value="0.1045" />
+        <entry key="..\:/Project/Kotlin/abiyasa/app/src/main/res/layout/activity_auth.xml" value="0.1" />
+        <entry key="..\:/Project/Kotlin/abiyasa/app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="..\:/Project/abiyasa/app/src/main/res/drawable/custom_button_box.xml" value="0.204" />
+        <entry key="..\:/Project/abiyasa/app/src/main/res/drawable/custom_layout_box.xml" value="0.103" />
+        <entry key="..\:/Project/abiyasa/app/src/main/res/drawable/hide_passs_image.xml" value="0.103" />
+        <entry key="..\:/Project/abiyasa/app/src/main/res/drawable/ic_auth_image.xml" value="0.1" />
+        <entry key="..\:/Project/abiyasa/app/src/main/res/drawable/show_password_image.xml" value="0.103" />
+        <entry key="..\:/Project/abiyasa/app/src/main/res/layout/activity_auth.xml" value="0.13" />
+        <entry key="..\:/Project/abiyasa/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Project/abiyasa/app/src/main/res/layout/fragment_auth.xml" value="0.1" />
+        <entry key="..\:/Project/abiyasa/app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="..\:/Project/abiyasa/app/src/main/res/layout/fragment_register.xml" value="0.16" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

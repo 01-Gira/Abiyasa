@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Abiyasa</string>
+    <string name="abiyasa" translatable="false">Abiyasa</string>
+    <string name="description_auth" translatable="false">Belajar Mengenal huruf, menghitung dan tulisan</string>
+    <string name="register">Daftar</string>
+    <string name="sign_in">Masuk</string>
+    <string name="join_now">Masuk dan Daftar Sekarang!</string>
+    <string name="dosnt_have_an_account_yet">Belum mempunyai akun?</string>
+    <string name="name">Nama</string>
+    <string name="confirm_password">Konfirmasi passwor</string>
+    <string name="enter_email">Email tidak boleh kosong!</string>
+    <string name="enter_password">Password tidak boleh kosong!</string>
+    <string name="already_sign_in">Anda sudah masuk!</string>
+    <string name="wrong_email_or_password">Email atau password salah, mohon periksa kembali!</string>
+</resources>
